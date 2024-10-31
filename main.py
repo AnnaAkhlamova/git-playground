@@ -4,12 +4,21 @@ import random
 
 def congratulate_user():
 <<<<<<< HEAD
+<<<<<<< HEAD
     print("=============================")
     print("= Congratulations! You won! =")
     print("=============================")
 =======
     print(f"Congratulations, you won! your words: {guesses}")
 >>>>>>> 7b26ca9 (updated congratulations text)
+=======
+    print(f"Congratulations, you won! your words: {guesses}")
+=======
+    print("=============================")
+    print("= Congratulations! You won! =")
+    print("=============================")
+>>>>>>> upstream/conflict-branch
+>>>>>>> 1b345875f8b5696aac0424f0730c6aed6f875123
 
 
 def is_game_over():
